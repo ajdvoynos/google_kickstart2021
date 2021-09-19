@@ -4,12 +4,9 @@
 // Output
 // For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is the best score that Alma can guarantee for the game, as described above.
 require('assert');
-require('index.js');
 
 describe('Array', () => {
     it('indexof', () => {
-        var input = [[2], [2,1,1,2,1,0], [2,2,2,1,1,2], [2,1], [2,3]];
-        var expected = ['Case #1: 2', 'Case #2: 0']
-        assert.equal(resolve(...input), );
+        
     });
 });
