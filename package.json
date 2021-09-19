@@ -1,0 +1,20 @@
+{
+  "name": "google_kickstart2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive src/**/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajdvoynos/google_kickstart2021.git"
+  },
+  "type": "commonjs",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajdvoynos/google_kickstart2021/issues"
+  },
+  "homepage": "https://github.com/ajdvoynos/google_kickstart2021#readme"
+}
